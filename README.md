@@ -22,7 +22,7 @@ La carpeta raíz del proyecto, **"Construccion-interfaces"**, incluye:
 A continuación, se describen las principales interfaces desarrolladas:
 
 ### **1. Login**  
-![Login](./Capturas/01-login.png)  
+![Login](./Capturas/01-login.png )  
 La primera pantalla del proyecto es la página de **inicio de sesión**.  
 - **Descripción:** Permite a los usuarios autenticarse ingresando sus credenciales.  
 - **Características:** Diseño intuitivo y adaptado para facilitar el acceso rápido y seguro a la plataforma.  
