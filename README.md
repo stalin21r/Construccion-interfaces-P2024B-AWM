@@ -22,7 +22,7 @@ La carpeta raíz del proyecto, **"Construccion-interfaces"**, incluye:
 A continuación, se describen las principales interfaces desarrolladas:
 
 ### **1. Login**  
-![Login](./capturas/01-login.png)  
+![Login](./Capturas/01-login.png)  
 La primera pantalla del proyecto es la página de **inicio de sesión**.  
 - **Descripción:** Permite a los usuarios autenticarse ingresando sus credenciales.  
 - **Características:** Diseño intuitivo y adaptado para facilitar el acceso rápido y seguro a la plataforma.  
@@ -30,14 +30,14 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
 ---
 
 ### **2. Página de Inicio**  
-![Página de Inicio](./capturas/02-inicio.png)  
+![Página de Inicio](./Capturas/02-inicio.png)  
 - **Descripción:** Es la vista principal a la que acceden los usuarios después de iniciar sesión.  
 - **Características:** Proporciona un resumen general de las funcionalidades y accesos rápidos a las diferentes secciones del sistema.  
 
 ---
 
 ### **3. Sección Tienda**  
-![Sección Tienda](./capturas/03-tienda.png)  
+![Sección Tienda](./Capturas/03-tienda.png)  
 - **Descripción:** Esta interfaz permite gestionar los productos de la tienda.  
 - **Características:**  
   - Vista de los productos disponibles.  
@@ -45,7 +45,7 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
   - Opciones para editar los productos.  
 
 #### **Modal de Edición de Productos**  
-![Modal de Edición](./capturas/03-tienda-modal.png)  
+![Modal de Edición](./Capturas/03-tienda-modal.png)  
 - **Descripción:** Modal emergente que se activa al seleccionar un producto para editar.  
 - **Características:**  
   - Muestra los detalles del producto seleccionado.  
@@ -54,7 +54,7 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
 ---
 
 ### **4. Crear Producto**  
-![Crear Producto](./capturas/04-crear-producto.png)  
+![Crear Producto](./Capturas/04-crear-producto.png)  
 - **Descripción:** Formulario dedicado a agregar nuevos productos al inventario.  
 - **Características:**  
   - Campos específicos para introducir toda la información necesaria, como nombre, precio, descripción, imagen, y categoría.  
@@ -63,7 +63,7 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
 ---
 
 ### **5. Registro de Asistencia**  
-![Registro de Asistencia](./capturas/05-registro-asistencia.png)  
+![Registro de Asistencia](./Capturas/05-registro-asistencia.png)  
 - **Descripción:** Formulario para registrar la asistencia de los usuarios en actividades o eventos organizados por la asociación.  
 - **Características:**  
   - Campos personalizables según el evento o actividad.  
