@@ -71,8 +71,29 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
 
 ---
 
+### **6. Casilleros**  
+![Casilleros](./Capturas/06-casilleros.png)  
+- **Descripción:** Interfaz que permite la gestión de casilleros disponibles para los estudiantes en la asociación.  
+- **Características:**  
+  - Vista general de los casilleros disponibles y ocupados.  
+  - Permite al usuario ver el estado de cada casillero y realizar solicitudes de asignación.  
+
+#### **Modal Casillero Lleno**  
+![Casillero Lleno](./Capturas/06-casilleros-casillero-lleno.png)  
+- **Descripción:** Modal emergente que aparece cuando un casillero está lleno.  
+- **Características:**  
+  - Muestra el estado de un casillero ocupado.  
+  - Ofrece opciones para ver otros casilleros disponibles o contactar al administrador.  
+
+#### **Modal Casillero Vacío**  
+![Casillero Vacío](./Capturas/06-casilleros-casillero-vacio.png)  
+- **Descripción:** Modal que aparece cuando un casillero está disponible.  
+- **Características:**  
+  - Muestra información sobre el casillero vacío.  
+  - Permite al usuario proceder a la asignación del casillero para su uso.
+
+---
+
 ## **Conclusión**  
 Este proyecto busca no solo facilitar la gestión de recursos para la AEIE, sino también proporcionar un entorno digital intuitivo y eficiente para estudiantes y administradores. Las interfaces están diseñadas pensando en la simplicidad y en la experiencia del usuario, combinando funcionalidad y estética.  
-
-### **Repositorio GitHub**  
-Si deseas explorar el código fuente o contribuir al proyecto, visita el repositorio en GitHub: [stalinEPN](https://github.com/stalinEPN).  
+ 
