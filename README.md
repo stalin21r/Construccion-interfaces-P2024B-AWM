@@ -78,12 +78,6 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
   - Vista general de los casilleros disponibles y ocupados.  
   - Permite al usuario ver el estado de cada casillero y realizar solicitudes de asignación. 
 
-### **6. Casilleros**  
-![Casilleros](./Capturas/07-horario.png)  
-- **Descripción:** Interfaz que permite consultar el horario de atención de la asociación.  
-- **Características:**  
-  - Tabla con el horario de atención correspondiente a cada miembro.  
-
 #### **Modal Casillero Lleno**  
 ![Casillero Lleno](./Capturas/06-casilleros-casillero-lleno.png)  
 - **Descripción:** Modal emergente que aparece cuando un casillero está lleno.  
@@ -97,6 +91,14 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
 - **Características:**  
   - Muestra información sobre el casillero vacío.  
   - Permite al usuario proceder a la asignación del casillero para su uso.
+
+---
+
+### **7. Horario**  
+![Casilleros](./Capturas/07-horario.png)  
+- **Descripción:** Interfaz que permite consultar el horario de atención de la asociación.  
+- **Características:**  
+  - Tabla con el horario de atención correspondiente a cada miembro. 
 
 ---
 
