@@ -76,7 +76,13 @@ La primera pantalla del proyecto es la página de **inicio de sesión**.
 - **Descripción:** Interfaz que permite la gestión de casilleros disponibles para los estudiantes en la asociación.  
 - **Características:**  
   - Vista general de los casilleros disponibles y ocupados.  
-  - Permite al usuario ver el estado de cada casillero y realizar solicitudes de asignación.  
+  - Permite al usuario ver el estado de cada casillero y realizar solicitudes de asignación. 
+
+### **6. Casilleros**  
+![Casilleros](./Capturas/07-horario.png)  
+- **Descripción:** Interfaz que permite consultar el horario de atención de la asociación.  
+- **Características:**  
+  - Tabla con el horario de atención correspondiente a cada miembro.  
 
 #### **Modal Casillero Lleno**  
 ![Casillero Lleno](./Capturas/06-casilleros-casillero-lleno.png)  
